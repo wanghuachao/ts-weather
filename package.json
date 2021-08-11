@@ -33,7 +33,7 @@
     "mkdirp": "^0.5.1",
     "once": "^1.4.0",
     "path-is-absolute": "^1.0.1",
-    "path-parse": "^1.0.6",
+    "path-parse": "^1.0.7",
     "resolve": "^1.14.2",
     "semver": "^5.7.1",
     "source-map": "^0.6.1",
